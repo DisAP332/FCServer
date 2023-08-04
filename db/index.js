@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 const username = encodeURIComponent("Disap332");
-const password = encodeURIComponent("Bell2848");
+const password = encodeURIComponent("wasWord2828");
 const cluster = "smallbuisnesswebsites";
 const { MongoClient, ServerApiVersion } = require('mongodb');
 const URI = `mongodb+srv://${username}:${password}@${cluster}.t319b6m.mongodb.net/?retryWrites=true&w=majority`;
